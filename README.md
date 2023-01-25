@@ -1,2 +1,2 @@
 # DijstraAlgorithm
- Program that finds the shortest path in the maze
+ ## Program that finds the shortest path in the maze
