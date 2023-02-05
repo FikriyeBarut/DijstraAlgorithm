@@ -9,6 +9,6 @@
 
 | Dijstra Algorithm  | A*Algorithm   |
 | ----------------- |:-------------:|
-| Dijkstra's just explore all possible paths.         | right-aligned |
-| col 2 is        | centered      |
-| zebra stripes  | are neat      |
+| Dijkstra's just explore all possible paths.         | A* uses heuristics to optimize the search.  |
+| uninformed search algorithm        | informed search algorithm      |
+| Algorithm is an algorithm that finds the shortest path between nodes A and B in a directed graph with non-negative edge weights.  | The A* algorithm is based on heuristics for navigating the search, but unlike many similar algorithms with this base (for example Best Search Algorithm), it is both complete and (under certain conditions) optimal      |
