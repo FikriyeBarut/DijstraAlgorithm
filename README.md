@@ -2,10 +2,11 @@
 ***
  ## Program that finds the shortest path in the maze
  
- Technologies:
-
-Python: 
-![python]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) "Logo Title Text 1")
+####Technologies:
+Python 
+Streamlit
+HTML
+CSS
 
 Reference-style: 
 ![alt text][logo]
