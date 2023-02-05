@@ -2,6 +2,16 @@
 ***
  ## Program that finds the shortest path in the maze
  
+ Technologies:
+
+Python: 
+![python]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+ 
  [What is the dijsktra algorithms?](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
  
  [What is the shortest path algorithms?](https://en.wikipedia.org/wiki/Shortest_path_problem)
