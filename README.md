@@ -6,5 +6,9 @@
  
  [What is the shortest path algorithms?](https://en.wikipedia.org/wiki/Shortest_path_problem)
  
- Dijstra Algorithm-A*Algorithm: 
-
+ -: 
+| Dijstra Algorithm  | A*Algorithm   |
+| ----------------- |:-------------:|
+| col 3 is         | right-aligned |
+| col 2 is        | centered      |
+| zebra stripes  | are neat      |
