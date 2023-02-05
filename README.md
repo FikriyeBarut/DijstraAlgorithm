@@ -2,16 +2,12 @@
 ***
  ## Program that finds the shortest path in the maze
  
-####Technologies:
+#### Technologies
 Python 
 Streamlit
 HTML
 CSS
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
  
  [What is the dijsktra algorithms?](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
  
